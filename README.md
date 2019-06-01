@@ -10,11 +10,19 @@ The XGBClassifier uses gradient boosting which is an ensemble model of decision 
 
 (this notebook shows an example of steps 4,5, and 6)
 
-Step 1: Prospect Data Collection
-Step 2: Matching Prospects with Existing Customers
-Step 3: Data Enrichment
-###Step 4: EDA and Correlation Visualization
-###Step 5: Feature Selection
-###Step 6: Modeling
-Step 7: Results and Iterative Prospect Contact cycles
-Step 8: Predicted Prospect Engagement Results feed back into additional modeling
+ - Step 1: Prospect Data Collection
+
+ - Step 2: Matching Prospects with Existing Customers
+
+ - Step 3: Data Enrichment
+
+### - Step 4: EDA and Correlation Visualization
+
+### - Step 5: Feature Selection
+
+### - Step 6: Modeling
+
+ - Step 7: Results and Iterative Prospect Contact cycles
+
+ - Step 8: Predicted Prospect Engagement Results feed back into additional modeling
+
